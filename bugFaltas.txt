@@ -1,0 +1,2 @@
+1. não possui os arquivos criados dentro do app.js fora que está sem as rotas, para faltas e boletos
+2. criar uma os arquivos e adicionar dentro das rotas para rodar no app.js
